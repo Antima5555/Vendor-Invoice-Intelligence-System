@@ -122,5 +122,4 @@ streamlit run app.py
 **Antima Goyal**
 
 Aspiring Data Analyst | Business Analytics Enthusiast
-**Antima Goyal**
 
