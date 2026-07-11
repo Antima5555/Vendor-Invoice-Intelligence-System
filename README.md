@@ -106,10 +106,10 @@ streamlit run app.py
 ```
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/faf79cd8-237a-4530-9d31-b67cba6e8180" />
 
-\n
+"\n"
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6ce4e30e-a366-4f31-a5d5-99650b30ffcb" />
 
-\n
+"\n"
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/da562370-f5e5-40ef-ab37-555d5ada2658" />
 
 
