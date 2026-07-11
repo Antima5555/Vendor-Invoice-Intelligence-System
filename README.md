@@ -104,11 +104,13 @@ Vendor_Invoice_Intelligence_System/
 ```bash
 streamlit run app.py
 ```
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b6314374-1867-4701-a312-2b1f3ff372ca" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/faf79cd8-237a-4530-9d31-b67cba6e8180" />
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cc45be9a-1e79-4b49-8c8a-9abe632924f9" />
+\n
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6ce4e30e-a366-4f31-a5d5-99650b30ffcb" />
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6501c246-48f3-43c2-81d1-fc09a0adb8df" />
+\n
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/da562370-f5e5-40ef-ab37-555d5ada2658" />
 
 
 
